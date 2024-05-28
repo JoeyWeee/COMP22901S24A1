@@ -11,7 +11,7 @@ export default function Layout() {
  
  <nav>
     
- <Link to="/">Home</Link> | <Link to="/about">About</Link> | <Link to="/education">Education</Link>| <Link to="/project">Project</Link>| <Link to="/contact">Contact</Link>
+ <Link to="/">Home</Link> | <Link to="/about">About</Link> | <Link to="/Services">Services</Link>| <Link to="/project">Projects</Link>| <Link to="/contact">Contact</Link>
  </nav>
 <br/>
  <hr />

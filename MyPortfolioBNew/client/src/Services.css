@@ -1,0 +1,40 @@
+/* 
+File Name: education.css
+Author: Xueqiu(Joey) Chen
+ID: 301310177
+Date: 2024-05-24
+*/
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+#services {
+    background: #fff;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  #services h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  #services p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
+  #services ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #services ul li {
+    background: #eee;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1.1em;
+  }
